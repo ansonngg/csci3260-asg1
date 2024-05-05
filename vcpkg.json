@@ -1,0 +1,15 @@
+{
+  "name" : "csci3260asg1",
+  "version-string" : "1.0.0",
+  "builtin-baseline" : "66b4b34d99ab272fcf21f2bd12b616e371c6bb31",
+  "dependencies" : [ {
+    "name" : "glfw3",
+    "version>=" : "3.3.9"
+  }, {
+    "name" : "glew",
+    "version>=" : "2.2.0#3"
+  }, {
+    "name" : "glm",
+    "version>=" : "1.0.0"
+  } ]
+}
